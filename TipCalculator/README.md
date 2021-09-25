@@ -1,10 +1,11 @@
-# Pre-work - *Name of App Here*
+# Pre-work - TipCalculator
+![Image](https://user-images.githubusercontent.com/91364746/134762757-0f5b2893-2851-4ea9-82d9-147af8a0781f.GIF)
 
-**Name of your app** is a tip calculator application for iOS.
+TipCalculator is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: AdeDeepFishing
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
